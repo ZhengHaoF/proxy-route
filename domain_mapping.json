@@ -1,0 +1,6 @@
+{
+  "mappings": {
+    "huggingface.co": "hf-mirror.com"
+  },
+  "proxy_port": 8123
+}
